@@ -1,4 +1,4 @@
-# Quasar App (nelson)
+# Quasar App (jose)
 
 A Quasar Project
 
