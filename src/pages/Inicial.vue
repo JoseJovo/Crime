@@ -6,7 +6,7 @@
       v-model="slide"
       height="400px"
     >
-      <q-carousel-slide name="first" img-src="~assets/cr2.png" >
+      <q-carousel-slide name="first" img-src="crime.png" >
         <div class="absolute-bottom custom-caption">
           <div class="text-h2">Denuncia Anonima</div>
           <div class="text-subtitle1">Burla informática através de captura de credenciais de correio eletrónico</div>
